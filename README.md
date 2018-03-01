@@ -4,6 +4,7 @@ Research
 ### Cryptography of unknown regions in genomes
 
 Author: Alex Nakagawa
+
 Research Project Contact: Ciera Martinez
 
 Project Organization
